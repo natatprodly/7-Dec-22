@@ -1,0 +1,2 @@
+"Guid","Application__c","Comments","Description","IsEscalated","ParentId","Priority","Reason","Status","Subject","SuppliedCompany","SuppliedName","SuppliedPhone","Type","TypeDetail__c"
+d2ace579-7d77-4102-8cd4-737c38c53c08,Sales Cloud,"#N/A",FakeMan,false,"#N/A",High,"#N/A",New,FakeMan,"#N/A","#N/A","#N/A",Problem,Data
